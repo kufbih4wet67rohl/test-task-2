@@ -1,0 +1,11 @@
+{
+  "name": "test_task_2",
+  "version": "1.0.0",
+  "description": "Тестовое задание 2. Кэш данных об облигациях",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Victor A.Skvortsov",
+  "license": "ISC"
+}
